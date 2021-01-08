@@ -50,6 +50,12 @@ Voici le GIT : https://github.com/PGE-M2SME/08_BUS_COM
 - La partie conception sur magicDraw (en cours )
 
 ## Generation de flux
-Acune information pour le moment
+
+### Ce qui doit être fait :
+- Mise en oeuvre de la machine virtuelle
+- Savoir creer un projet sous Latice : possibilité de reprendre le projet de Cyprien
+- Mettre en oeuvre la carte de developpement (pour afficher la mir) : possibilité d'aller la chercher chez cyprien
+-> Il faut determiner qui prend les cartes
+- Comprendre le code VHDL (quelles sont les paramètres importants pour generer une mir
 
 
