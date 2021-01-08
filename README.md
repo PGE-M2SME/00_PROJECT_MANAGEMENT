@@ -45,6 +45,7 @@ Voici le GIT : https://github.com/PGE-M2SME/08_BUS_COM
 ## Alanyse de flux
 
 ### Ce qui doit être fait :
+- Mise en oeuvre de la machine virtuelle
 - Faire un projet DVI avec la carte altera. 
 - Analyser les différents codes sur le git pour se familiariser avec les cartes lattice et l’environnement de développement diamond
 - La partie conception sur magicDraw (en cours )
