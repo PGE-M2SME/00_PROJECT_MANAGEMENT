@@ -28,19 +28,17 @@ https://balsamiq.com/wireframes/
 Note : Cette partie est un travail de recherche, nous allons essayer de faire un maximum du cahier des charges. Pour cette semaine nous allons essayer de detecter un message SPI et I2C
 
 ## Liaison FPGA - Micro-controleur
-Salut l'équipe FPGA-uC !
-Comme cette partie est prioritaire par rapport a la partis BUS COM je vais travailler dessus aussi.
-Je suis partie du principe qu'on choisissais le protocole SPI (Si vous en préférez un autre dites le moi je changerai)
 
 ### Ce qui a été fait :
-- Le code slave SPI en VHDL
-- Le code master en C coté arduino
+- Communication SPI FPGA -> Microcontoleur (Arduino) avec envoie en boucle
+- Communication Microcotroleur (Arduino) -> FPGA
 
-### Ce qui doit être fait :
-- Code Master SPI pour le FPGA
-- Code Slave de test pour le microcontrôleur
+### Ce qui doit être fait
+- Communication dans les deux sens avec un STM 32
 
-Voici le GIT : https://github.com/PGE-M2SME/08_BUS_COM
+Normalement le microcontoleur devrai bien être un stm32 Nucleo 144 (celui qu'on nous a donné l'année dernière)
+
+Git de developpement : https://github.com/PGE-M2SME/08_BUS_COM
 
 ## Alanyse de flux
 
