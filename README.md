@@ -6,10 +6,19 @@
 ## IHM
 
 ### Ce qui a été fait :
-- Sofiane a commencé un travail disponnible sur le GIT Disponnible sur une branche.
-https://github.com/PGE-M2SME/03_SOFTWARE
+- Bonne prise en main de TouchGFX par Manoah avec une maquette 
 
-### Ce qui doit être fait :
+### Ce qui est en train d'être fait :
+- Bouchra va finir la conception visuelle de l'IHM
+- Alejandro continue de prendre en main TouchGFX
+- Soufiyane va recuperer et tester l'écran 
+
+### Ce qui devra être fait :
+- Validation de l'IHM par le client
+- Lancement de fonctions a partir de TouchGFX
+- Affichage de valeurs issue de fonctions sur TouchGFX
+
+### Ce qui devait être fait (Objectif semaine du 11/01) :
 -  Il n'y a pas encore de conception detaillé de l'IHM. On sait globalement ce qu'il y aura et quel services devrons être traités mais il n'y a pas d'idées sur les pages et le design. C'est une partie importante a faire comme ça lors du developpement en groupe il n'y aura pas de questions a ce poser.
 Vous pouvez utiliser le logiciel "Balsamiq mockeup" en version d'essaie:
 https://balsamiq.com/wireframes/
@@ -30,13 +39,11 @@ Note : Cette partie est un travail de recherche, nous allons essayer de faire un
 ## Liaison FPGA - Micro-controleur
 
 ### Ce qui a été fait :
-- Communication SPI FPGA -> Microcontoleur (Arduino) avec envoie en boucle
-- Communication Microcotroleur (Arduino) -> FPGA
+- Communication SPI FPGA -> Microcontoleur (STM32)
+- Communication SPI Microcotroleur (STM32) -> FPGA
 
-### Ce qui doit être fait
-- Communication dans les deux sens avec un STM 32
-
-Normalement le microcontoleur devrai bien être un stm32 Nucleo 144 (celui qu'on nous a donné l'année dernière)
+### Ce qui devait être fait (Objectif semaine du 11/01):
+- Communication dans les 2 sens en SPI entre FPGA et micro-controleur
 
 Git de developpement : https://github.com/PGE-M2SME/08_BUS_COM
 
