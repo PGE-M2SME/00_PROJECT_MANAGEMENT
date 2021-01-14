@@ -7,16 +7,17 @@
 
 ### Ce qui a été fait :
 - Bonne prise en main de TouchGFX par Manoah avec une maquette 
+- Realisation de la conception visuelle par Bouchra : https://github.com/PGE-M2SME/03_SOFTWARE/blob/master/Conception/IHM-Conception_visuelle-Version_1.pdf
+- Soufyane a recuperé l'ecran
 
 ### Ce qui est en train d'être fait :
-- Bouchra va finir la conception visuelle de l'IHM
 - Alejandro continue de prendre en main TouchGFX
-- Soufiyane va recuperer et tester l'écran 
 
-### Ce qui devra être fait :
+### Ce qui devra être fait (Semaine du 18/11):
 - Validation de l'IHM par le client
 - Lancement de fonctions a partir de TouchGFX
 - Affichage de valeurs issue de fonctions sur TouchGFX
+- Brancher et tester l'écran
 
 ### Ce qui devait être fait (Objectif semaine du 11/01) :
 -  Il n'y a pas encore de conception detaillé de l'IHM. On sait globalement ce qu'il y aura et quel services devrons être traités mais il n'y a pas d'idées sur les pages et le design. C'est une partie importante a faire comme ça lors du developpement en groupe il n'y aura pas de questions a ce poser.
