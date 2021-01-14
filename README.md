@@ -1,7 +1,7 @@
 # 01_PROJECT_MANAGEMENT
 
 # Etat d'avancement de la partie software avec objectif pour la semaine
-# Dernière MAJ : 08/01
+# Dernière MAJ : 14/01
 
 ## IHM
 
