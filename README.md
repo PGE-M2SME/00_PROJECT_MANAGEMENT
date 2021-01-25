@@ -46,12 +46,10 @@ Git de developpement : https://github.com/PGE-M2SME/10_FPGA_ANALYSE
 
 ### Ce qui devait être fait (Objectif semaine du 25/01):
 
-1. Identifier les entrées (vecteur de combien de bits  correspond à quoi..etc) influence quelle sortie 
+- Identifier les entrées (vecteur de combien de bits  correspond à quoi..etc) influence quelle sortie 
 (voir tuto diamond si on peut voir les blocs)
-
-2.Trouver une solution sur comment changer les paramètres de la mire dans le code
-
-3. A la fin 
+- Trouver une solution sur comment changer les paramètres de la mire dans le code
+- A la fin :
 faire une documentation pour l'équipe IHM 
 
 Git de developpement : https://github.com/PGE-M2SME/11_FPGA_GENERATION
