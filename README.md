@@ -9,8 +9,6 @@
 - Gautier teste l'ecran
 - Manoah prend en main le logiciel Workshop 4D
 
-### Ce qui devra être fait (Semaine du 25/11):
-
 Git de developpement : https://github.com/PGE-M2SME/12_IHM
 
 ## BUS COM
