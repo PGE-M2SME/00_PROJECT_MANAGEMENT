@@ -2,7 +2,7 @@
 
 # Equipes
 
-IHM	FPGA |Analyse|Generation| PC-uC  |Integration STM32|	Integration FPGA    | BUS_COM
+IHM |Analyse|Generation| PC-uC  |Integration STM32|	Integration FPGA    | BUS_COM
 ---------|-------|---------------|---------------------|-----------------|----------|----------
 Manoah 	:mag_right: |Ryan	 :page_with_curl: :mag_right:|Haitem :page_with_curl: |Youssef :page_with_curl:|Clément	|Thomas | Bruno :page_with_curl:
 Bouchra	 :page_with_curl:|Mehdi	 |Alejandro	:mag_right: |Farouk	| | | Alexandre	
