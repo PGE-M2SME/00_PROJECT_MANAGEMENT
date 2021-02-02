@@ -2,12 +2,12 @@
 
 # Equipes
 
-IHM	FPGA |Analyse|FPGA Generation| PC-uC  |Integration STM32|	Integration FPGA    | BUS_COM
+IHM	FPGA |Analyse|Generation| PC-uC  |Integration STM32|	Integration FPGA    | BUS_COM
 ---------|-------|---------------|---------------------|-----------------|----------|----------
-Manoah 	:mag_right: |Ryan	 :page_with_curl: :mag_right:|Haitem :page_with_curl: |Youssef |Clément	|Thomas | Bruno :page_with_curl:
+Manoah 	:mag_right: |Ryan	 :page_with_curl: :mag_right:|Haitem :page_with_curl: |Youssef :page_with_curl:|Clément	|Thomas | Bruno :page_with_curl:
 Bouchra	 :page_with_curl:|Mehdi	 |Alejandro	:mag_right: |Farouk	| | | Alexandre	
-Soufiyane|Badr	 |Xavier	| | | | Jayendra		
-     -    |Anass |Yasmine			
+Soufiyane|Badr	 |Xavier	| | | | Jayendra
+   x  |Anass |Yasmine	| | | | 		
 
 Responsable documentation : :page_with_curl: </br>
 Responsable démonstration : :mag_right:
