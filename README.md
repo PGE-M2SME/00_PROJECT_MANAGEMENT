@@ -1,5 +1,17 @@
 # 01_PROJECT_MANAGEMENT
 
+# Equipes
+
+IHM	FPGA |Analyse|FPGA Generation|Communication PC-uC  |Integration STM32|	Integration FPGA
+---------|-------|---------------|---------------------|-----------------|-------------------
+Manoah 	:mag_right: |Ryan	 :page_with_curl: :mag_right:|Haitem	     :page_with_curl:|Youssef			   |Clément			 |Thomas
+Bouchra	 :page_with_curl:|Mehdi	 |Alejandro	:mag_right: |Farouk		
+Soufiyane|Badr	 |Xavier			
+Anass	 |Yasmine			
+
+Responsable documentation : :page_with_curl:
+Responsable démonstration : :mag_right:
+
 # Etat d'avancement de la partie software avec objectif pour la semaine
 # Dernière MAJ : 25/01
 
