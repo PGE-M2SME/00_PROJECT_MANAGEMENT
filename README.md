@@ -8,6 +8,7 @@ Manoah 	:mag_right: |Ryan	 :page_with_curl: :mag_right:|Xavier :page_with_curl: 
 Bouchra	 :page_with_curl:|Mehdi	 |Alejandro	:mag_right: |Farouk	| | | Alexandre	
 Soufiyane|Badr	 |Haitem	| | | | Jayendra
    x  |Anass |Yasmine	| | | | 		
+   x | Nijad | | | |
 
 Responsable documentation : :page_with_curl: </br>
 Responsable démonstration : :mag_right:
